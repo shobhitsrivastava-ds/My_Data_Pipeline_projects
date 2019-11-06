@@ -1,7 +1,5 @@
 # My_Data_Pipeline_projects
 
-![Sample Data Pipeline demonstration Image](https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2018/05/01/Prediction1-1.png= 200*200)
-
 In this repostiory I will be uploading sample code demonstrating data pipeline concepts.
 
 * So basically it is quite simple concept dunning down below, where we are trying to provide one api from company  A running flask(Python) to the company B who has postgre sql server running down in their premise.
